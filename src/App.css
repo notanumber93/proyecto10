@@ -1,3 +1,44 @@
+.cable {
+  height: 100px;
+  width: 4px;
+  margin: 0 auto;
+  padding: 5px 10px;
+  background-color: black;
+}
+
+.caja {
+  height: 150px;
+  width: 50px;
+  margin: 0 auto;
+  padding: 5px 10px;
+  background-color: black;
+}
+
+.rojo {
+  border-radius: 25px;
+  background-color: red;
+  height: 50px;
+  width: 50px;
+}
+
+.amarillo {
+  border-radius: 25px;
+  background-color: yellow;
+  height: 50px;
+  width: 50px;
+}
+
+.verde {
+  border-radius: 25px;
+  background-color: green;
+  height: 50px;
+  width: 50px;
+}
+
+.seleccionado {
+  box-shadow: 0px 0px 15px 25px rgba(247,216,17,0.8);
+}
+
 .App {
   text-align: center;
 }
